@@ -1,2 +1,2 @@
 **Graphics Library**
-\Please view pdf for details
+Please view pdf for details
